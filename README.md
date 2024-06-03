@@ -1,2 +1,2 @@
 # prototype
-A prototype Dashboard 
+A prototype Dashboard showcasing different social indicators in the world
