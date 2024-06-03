@@ -101,6 +101,8 @@ def create_sidebar():
                         # ),
                         dbc.DropdownMenu(
                             label='Explore by country project',
+                            in_navbar=True,
+                            nav=True,
                             children=[
                                 dbc.DropdownMenuItem('store', href='/store'),
                                 dbc.DropdownMenuItem(divider=True),
