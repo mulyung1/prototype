@@ -109,7 +109,7 @@ def create_sidebar():
                                 dbc.DropdownMenuItem('faqs', href='/faqs')
                             ]
                         )
-                    ]
+                    ], vertical=True
                 )
                 ], style={
                     #'backgroundColor':'#010103', 
